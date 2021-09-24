@@ -10,7 +10,7 @@ This project has components consisting of:
 - Log out page
 - And Home Page
 
-Get database who names is 'simabsensi'
+Get database who names is <span style="background-color:white;">'simabsensi'</span>
 
 <h3>Component Database</h3>
 
