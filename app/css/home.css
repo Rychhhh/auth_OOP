@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@700&family=Varela+Round&display=swap");
+
+body {
+  font-family: "Varela Round";
+  background-color: rgb(31 41 55);
+  color: white;
+}
+
+.content {
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+}
